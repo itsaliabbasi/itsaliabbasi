@@ -9,9 +9,10 @@ I work primarily with **Linux, Kubernetes, Docker, GitLab CI/CD, Helm, Prometheu
 ## 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsaliabbasi&show_icons=true&theme=tokyonight&hide_border=true" alt="Ali's GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=itsaliabbasi&theme=tokyonight&hide_border=true" alt="Ali's GitHub streak" />
 </p>
+
+GitHub’s native contribution graph on my profile shows the full activity history without relying on a third-party stats deployment.
 
 ## 🛠️ Technologies
 
