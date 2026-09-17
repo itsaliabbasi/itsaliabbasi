@@ -39,6 +39,12 @@ Demonstrates how to protect container data across rebuilds using Docker volumes,
 
 📖 [Read the Medium article](https://medium.com/@iAmAliAbbasi/how-to-avoid-data-loss-when-working-in-a-dockerized-environment-8e944dfd2d4d)
 
+## ✍️ Technical Writing
+
+- [HAProxy & Keepalived for Kubernetes High Availability](https://medium.com/@iAmAliAbbasi/haproxy-keepalived-what-they-are-why-we-needed-them-what-we-did-19b460b39de8)
+- [Avoiding Data Loss in Dockerized Environments](https://medium.com/@iAmAliAbbasi/how-to-avoid-data-loss-when-working-in-a-dockerized-environment-8e944dfd2d4d)
+- [Increasing Server Fan Speed from HPE iLO](https://medium.com/@iAmAliAbbasi/increase-server-fan-speed-from-ilo-bdb8d8626a48)
+
 ## 🎯 Current Focus
 
 - ☸️ Kubernetes architecture and networking
