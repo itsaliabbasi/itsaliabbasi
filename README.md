@@ -32,6 +32,12 @@ Designed a highly available Kubernetes API entry point using HAProxy and Keepali
 
 📖 [Read the detailed Medium article](https://medium.com/@iAmAliAbbasi/haproxy-keepalived-what-they-are-why-we-needed-them-what-we-did-19b460b39de8)
 
+### [Docker Volume Persistence Lab](https://github.com/itsaliabbasi/docker-volume-persistence-lab)
+
+Demonstrates how to protect container data across rebuilds using Docker volumes, Compose lifecycle commands, and volume backup/restore workflows.
+
+📖 [Read the Medium article](https://medium.com/@iAmAliAbbasi/how-to-avoid-data-loss-when-working-in-a-dockerized-environment-8e944dfd2d4d)
+
 ## 🎯 Current Focus
 
 - ☸️ Kubernetes architecture and networking
