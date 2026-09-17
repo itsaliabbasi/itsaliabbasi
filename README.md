@@ -26,9 +26,11 @@ I work primarily with **Linux, Kubernetes, Docker, GitLab CI/CD, Helm, Prometheu
 
 ## 🚀 Featured Work
 
-### [GitHub Profile Repository](https://github.com/itsaliabbasi/itsaliabbasi)
+### [Kubernetes HA Load Balancer](https://github.com/itsaliabbasi/kubernetes-ha-load-balancer)
 
-The source for this profile README, organized around DevOps, Kubernetes, CI/CD, observability, and infrastructure automation. More project repositories will be highlighted here as they become public.
+Designed a highly available Kubernetes API entry point using HAProxy and Keepalived. HAProxy routes traffic across healthy control-plane nodes while Keepalived provides automatic virtual-IP failover.
+
+📖 [Read the detailed Medium article](https://medium.com/@iAmAliAbbasi/haproxy-keepalived-what-they-are-why-we-needed-them-what-we-did-19b460b39de8)
 
 ## 🎯 Current Focus
 
