@@ -4,7 +4,7 @@
 
 I’m a DevOps Engineer focused on building, automating, and operating reliable infrastructure and delivery platforms.
 
-I work primarily with **Linux, Kubernetes, Docker, GitLab CI/CD, Helm, Prometheus, Grafana, NGINX, Ansible, and Go**, with a strong interest in **Kubernetes networking, observability, automation, and distributed systems**.
+I work primarily with **Linux, Kubernetes, Docker, GitLab CI/CD, Helm, Prometheus, Grafana, NGINX, Mysql, Ansible, and Go**, with a strong interest in **Kubernetes networking, observability, automation, and distributed systems**.
 
 ## 📊 GitHub Activity
 
