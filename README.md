@@ -22,7 +22,8 @@ I write about what I build and what breaks on [Medium](https://medium.com/@iAmAl
 
 ### [Kubernetes HA Load Balancer](https://github.com/itsaliabbasi/kubernetes-ha-load-balancer)
 Highly available Kubernetes API entry point using HAProxy and Keepalived. HAProxy routes traffic across healthy control-plane nodes; Keepalived provides automatic virtual-IP failover.
-**Result:** [add one measurable line, e.g. "removed the API single point of failure across N control-plane nodes"]
+
+**Result:** Removed the single point of failure on the Kubernetes API across 5 control-plane nodes, with automatic virtual-IP failover between load balancer nodes.
 
 📖 [Read the article](https://medium.com/@iAmAliAbbasi/haproxy-keepalived-what-they-are-why-we-needed-them-what-we-did-19b460b39de8)
 
@@ -32,7 +33,7 @@ A hands-on lab showing how to protect container data across rebuilds with Docker
 📖 [Read the article](https://medium.com/@iAmAliAbbasi/how-to-avoid-data-loss-when-working-in-a-dockerized-environment-8e944dfd2d4d)
 
 ### [OGG to M4A Converter](https://github.com/itsaliabbasi/ogg-to-m4a-converter)
-A small Go tool for converting audio files. *(Edit this line to describe what it actually does and why you built it.)*
+A small Go CLI that converts OGG audio files to M4A.
 
 ## ✍️ Technical Writing
 
